@@ -23,11 +23,6 @@ Proyek ini menggunakan pendekatan pemrograman berorientasi objek (OOP) dengan st
 1. Pastikan Python sudah terinstal di komputer Anda
 2. Clone atau download repository ini
 3. Buka terminal dan navigasi ke direktori aplikasi
-4. Instal dependensi yang diperlukan:
-
-```bash
-pip install -r requirements.txt
-```
 
 ### Menjalankan Aplikasi
 
